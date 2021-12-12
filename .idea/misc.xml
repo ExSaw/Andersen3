@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.3848958333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/drawable/shape_of_button.xml" value="0.3848958333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/activity_main.xml" value="0.3188405797101449" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/activity_task1.xml" value="0.3645833333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/activity_task2.xml" value="0.3645833333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/activity_task_1.xml" value="0.3645833333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/activity_task_2.xml" value="0.3645833333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/fragment_austria.xml" value="0.3645833333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/fragment_colombia.xml" value="0.3645833333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/fragment_denmark.xml" value="0.3645833333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/fragment_italy.xml" value="0.3645833333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/fragment_madagascar.xml" value="0.3645833333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/fragment_poland.xml" value="0.3645833333333333" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/fragment_switzerland.xml" value="0.7309090750670634" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/fragment_task1.xml" value="0.35572916666666665" />
+        <entry key="..\:/Projects/Android/Andersen/Andersen3/app/src/main/res/layout/fragment_thailand.xml" value="0.3645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

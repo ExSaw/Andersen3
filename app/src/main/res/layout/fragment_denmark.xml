@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/my_color_5"
+    tools:context=".fragments.AustriaFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@color/white"
+        android:layout_gravity="center">
+
+        <LinearLayout
+            android:id="@+id/sec1"
+            android:layout_width="120dp"
+            android:layout_height="75dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@color/colorRed"
+            android:orientation="vertical" />
+
+        <LinearLayout
+            android:id="@+id/sec4"
+            android:layout_width="0dp"
+            android:layout_height="75dp"
+            android:layout_above="@+id/sec3"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="30dp"
+            android:layout_marginStart="30dp"
+            android:layout_toEndOf="@+id/sec1"
+            android:background="@color/colorRed"
+            android:orientation="vertical" />
+
+        <LinearLayout
+            android:id="@+id/sec2"
+            android:layout_width="120dp"
+            android:layout_height="75dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/sec1"
+            android:layout_marginTop="30dp"
+            android:background="@color/colorRed"
+            android:orientation="vertical" />
+
+        <LinearLayout
+            android:id="@+id/sec3"
+            android:layout_width="0dp"
+            android:layout_height="75dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="30dp"
+            android:layout_toEndOf="@+id/sec2"
+            android:background="@color/colorRed"
+            android:orientation="vertical" />
+
+    </RelativeLayout>
+
+</FrameLayout>
